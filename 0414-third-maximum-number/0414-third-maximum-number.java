@@ -1,34 +1,19 @@
 class Solution {
     public int thirdMax(int[] nums) 
     {
-        Integer max1=null;
-        Integer max2=null;
-        Integer max3=null;
-
-        for(Integer num:nums)
+       Arrays.sort(nums);
+       int count=1;
+       for(int i=nums.length-1;i>0;i--)
         {
-            if(num.equals(max1) || num.equals(max2) || num.equals(max3))
+           if(nums[i]!=nums[i-1])
             {
-                continue;
+               count++;
             }
-            if( max1==null || num>max1)
+           if(count==3)
             {
-                max3=max2;
-                max2=max1;
-                max1=num;
+                return nums[i-1];
             }
-            else if(max2==null || num>max2)
-            {
-                max3=max2;
-                max2=num;
-            }
-            else if(max3==null || num>max3)
-            {
-                max3=num;
-            }
-
-        }  
-
-        return max3==null ? max1 :max3; 
+        } 
+        return nums[nums.length-1];
     }
 }
