@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/divyaamp05/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/divyaamp05/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/divyaamp05/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyaamp05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/divyaamp05/LeetCode/tree/master/0169-majority-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaamp05/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -22,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/divyaamp05/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/divyaamp05/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -30,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/divyaamp05/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyaamp05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaamp05/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
