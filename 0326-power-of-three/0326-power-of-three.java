@@ -10,19 +10,7 @@ class Solution {
             return true;
         }
 
-        while(n>=2)
-        {
-            int rem=n%3;
-            if(rem==0)
-            {
-                n=n/3;
-            }
-            else
-            {
-                return false;
-            }
-        }
-        return true;
+        return (n%3==0) && isPowerOfThree(n/3); 
 
 
 
