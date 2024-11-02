@@ -68,6 +68,7 @@
 | [0007-reverse-integer](https://github.com/divyaamp05/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/divyaamp05/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/divyaamp05/LeetCode/tree/master/0066-plus-one) |
+| [0326-power-of-three](https://github.com/divyaamp05/LeetCode/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyaamp05/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/divyaamp05/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3321-type-of-triangle](https://github.com/divyaamp05/LeetCode/tree/master/3321-type-of-triangle) |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/divyaamp05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/divyaamp05/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
