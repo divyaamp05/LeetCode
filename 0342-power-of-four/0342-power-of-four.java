@@ -10,18 +10,15 @@ class Solution {
             return true;
         }
 
-        while(n>=2)
+        if(n%4==0)
         {
-            int rem=n%4;
-            if(rem==0)
-            {
-                n=n/4;
-            }
-            else
-            {
-                return false;
-            }
+            return isPowerOfFour(n/4); 
         }
-        return true;
+        else
+        {
+            return false;
+        }
+
+
     }
 }
