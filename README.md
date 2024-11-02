@@ -17,6 +17,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/divyaamp05/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaamp05/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/divyaamp05/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3321-type-of-triangle](https://github.com/divyaamp05/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0217-contains-duplicate](https://github.com/divyaamp05/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/divyaamp05/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyaamp05/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3321-type-of-triangle](https://github.com/divyaamp05/LeetCode/tree/master/3321-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0066-plus-one](https://github.com/divyaamp05/LeetCode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyaamp05/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/divyaamp05/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3321-type-of-triangle](https://github.com/divyaamp05/LeetCode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
