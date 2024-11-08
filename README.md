@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/divyaamp05/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyaamp05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/divyaamp05/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/divyaamp05/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/divyaamp05/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/divyaamp05/LeetCode/tree/master/0075-sort-colors) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/divyaamp05/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/divyaamp05/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/divyaamp05/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/divyaamp05/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/divyaamp05/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/divyaamp05/LeetCode/tree/master/0326-power-of-three) |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/divyaamp05/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/divyaamp05/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
