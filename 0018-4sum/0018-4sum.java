@@ -25,7 +25,7 @@ class Solution {
 
                 while (k < l) 
                 {
-                    long sum = (long) nums[i] + nums[j] + nums[k] + nums[l];
+                    long sum =  (long) nums[i] + nums[j] + nums[k] + nums[l];
 
                     if (sum < target) 
                     {
