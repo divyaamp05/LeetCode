@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/divyaamp05/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyaamp05/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/divyaamp05/LeetCode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/divyaamp05/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/divyaamp05/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/divyaamp05/LeetCode/tree/master/0414-third-maximum-number) |
@@ -120,6 +121,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/divyaamp05/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/divyaamp05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Recursion
 |  |
