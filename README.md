@@ -26,6 +26,7 @@
 | [0287-find-the-duplicate-number](https://github.com/divyaamp05/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/divyaamp05/LeetCode/tree/master/0414-third-maximum-number) |
+| [0493-reverse-pairs](https://github.com/divyaamp05/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/divyaamp05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyaamp05/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/divyaamp05/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/divyaamp05/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/divyaamp05/LeetCode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/divyaamp05/LeetCode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyaamp05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/divyaamp05/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/divyaamp05/LeetCode/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/divyaamp05/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
 |  |
@@ -156,4 +159,20 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/divyaamp05/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/divyaamp05/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/divyaamp05/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/divyaamp05/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/divyaamp05/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
