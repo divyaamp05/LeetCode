@@ -32,6 +32,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/divyaamp05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyaamp05/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/divyaamp05/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1019-squares-of-a-sorted-array](https://github.com/divyaamp05/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/divyaamp05/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaamp05/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/divyaamp05/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -65,6 +66,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/divyaamp05/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyaamp05/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/divyaamp05/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/divyaamp05/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3321-type-of-triangle](https://github.com/divyaamp05/LeetCode/tree/master/3321-type-of-triangle) |
 ## Counting
@@ -85,6 +87,7 @@
 | [0287-find-the-duplicate-number](https://github.com/divyaamp05/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/divyaamp05/LeetCode/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/divyaamp05/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaamp05/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
