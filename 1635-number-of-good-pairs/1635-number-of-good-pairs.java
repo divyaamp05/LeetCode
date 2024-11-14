@@ -27,16 +27,19 @@ class Solution
     public int count(int [] nums,int low,int mid,int high)
     {
         int cnt=0;
+        
 
         for(int i=low;i<=mid;i++)
         {
-            for(int j=mid+1;j<=high;j++)
+            int right=mid+1;
+            while(right<=high)
             {
-                if(nums[i]==nums[j])
+                if(nums[i]==nums[right])
                 {
                     cnt++;
                 }
-            }
+                right++;
+            } 
         }
 
         return cnt;
