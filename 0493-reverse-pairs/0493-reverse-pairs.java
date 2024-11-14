@@ -25,18 +25,19 @@ class Solution
 
     public int count(int[] nums, int low, int mid, int high)
     {
-        int right=mid+1;
+       
 
         int cnt=0;
 
         for(int i=low;i<=mid;i++)
         {
+            int right=mid+1;
             while(right<=high && (long) nums[i]> (long) 2 * nums[right])
             {
                 right++;
+                cnt++;
             }
 
-            cnt=cnt+right-(mid+1);
         }
 
     
