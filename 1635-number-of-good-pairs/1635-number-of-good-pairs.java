@@ -1,19 +1,83 @@
-class Solution {
+class Solution 
+{
     public int numIdenticalPairs(int[] nums) 
     {
-        int count=0;
+        return mergesort(nums,0,nums.length-1);
+    }
 
-        for(int i=0;i<nums.length;i++)
+    public int mergesort(int [] nums,int low,int high)
+    {
+        int cnt=0;
+
+        if(low>=high)
         {
-            for(int j=i+1;j<nums.length;j++)
+            return 0;
+        }
+
+        int mid=(low+high)/2;
+
+        cnt+=mergesort(nums,low,mid);
+        cnt+=mergesort(nums,mid+1,high);
+        cnt+=count(nums,low,mid,high);
+        merge(nums,low,mid,high);
+
+        return cnt;
+    }
+
+    public int count(int [] nums,int low,int mid,int high)
+    {
+        int cnt=0;
+
+        for(int i=low;i<=mid;i++)
+        {
+            for(int j=mid+1;j<=high;j++)
             {
                 if(nums[i]==nums[j])
                 {
-                    count++;
+                    cnt++;
                 }
             }
         }
 
-        return count;
+        return cnt;
+    }
+
+    public void merge(int [] nums,int low,int mid,int high)
+    {
+        ArrayList <Integer> temp =new ArrayList <> ();
+
+        int left=low;
+        int right=mid+1;
+
+        while(left<=mid && right <=high)
+        {
+            if(nums[left]<=nums[right])
+            {
+                temp.add(nums[left]);
+                left++;
+            }
+            else
+            {
+                temp.add(nums[right]);
+                right++;
+            }
+        }
+
+        while(left<=mid)
+        {
+            temp.add(nums[left]);
+            left++;
+        }
+
+        while(right<=high)
+        {
+            temp.add(nums[right]);
+            right++;
+        }
+
+        for(int i=low;i<=high;i++)
+        {
+            nums[i]=temp.get(i-low);
+        }
     }
 }
