@@ -136,6 +136,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/divyaamp05/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/divyaamp05/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/divyaamp05/LeetCode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/divyaamp05/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/divyaamp05/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/divyaamp05/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/divyaamp05/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -200,4 +201,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/divyaamp05/LeetCode/tree/master/0493-reverse-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/divyaamp05/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
