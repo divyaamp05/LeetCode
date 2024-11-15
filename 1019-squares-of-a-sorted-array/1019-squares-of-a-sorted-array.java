@@ -3,11 +3,11 @@ class Solution {
     {
         int l=0;
         int r=nums.length-1;
+        int i=nums.length-1;
 
         int arr [] =new int [nums.length];
         
-        int i=nums.length-1;
-
+       
         while(l<=r)
         {
             if(nums[l] * nums[l] <= nums[r] * nums[r])
@@ -19,12 +19,13 @@ class Solution {
 
             else
             {
-                arr[i]=nums[l] * nums[l];
+                arr[i]=nums[l] *nums[l];
                 i--;
                 l++;
             }
         }
 
         return arr;
+
     }
 }
