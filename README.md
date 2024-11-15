@@ -16,6 +16,7 @@
 | [0054-spiral-matrix](https://github.com/divyaamp05/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/divyaamp05/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/divyaamp05/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/divyaamp05/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/divyaamp05/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/divyaamp05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyaamp05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/divyaamp05/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/divyaamp05/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/divyaamp05/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyaamp05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/divyaamp05/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -172,6 +174,7 @@
 | [0048-rotate-image](https://github.com/divyaamp05/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/divyaamp05/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/divyaamp05/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/divyaamp05/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Sliding Window
 |  |
 | ------- |
