@@ -6,27 +6,25 @@ class Solution {
 
     public int binary(int[] nums,int low,int high,int target)
     {
+        int ans=nums.length;
+
         while(low<=high)
         {
             int mid=(low+high)/2;
 
-            if(nums[mid]==target)
+            if(nums[mid]>=target)
             {
-                return mid;
-            }
-
-            else if(nums[mid]<target)
-            {
-                low=mid+1;
+                ans=mid;
+                high=mid-1;  
             }
 
             else
             {
-                high=mid-1;
+                low=mid+1;
             }
         }
 
-        return low;
+        return ans;
         
     }
 }
