@@ -1,25 +1,68 @@
-class Solution {
-    public int[] searchRange(int[] nums, int target) 
+class Solution 
+{
+    public int lower(int[] nums,int low,int high,int target)
     {
-        int e1=-1;
-        int e2=-1;
-        for(int i=0;i<nums.length;i++)
+        int a1=-1;
+
+        while(low<=high)
         {
-            if(nums[i]==target)
+            int mid=(low+high)/2;
+
+            if(nums[mid]>=target)
             {
-                if(e1==-1)
-                {
-                    e1=i;
-                }
-                e2=i;
+                a1=mid;
+                high=mid-1;
             }
 
-        } 
+            else
+            {
+                low=mid+1;
+            }
+        }
 
-        return new int [] {e1,e2}; 
+        return a1;
+    }
 
-   
+    public int upper(int[] nums,int low,int high,int target)
+    {
+        int a2=-1;
 
-         
+        while(low<=high)
+        {
+            int mid=(low+high)/2;
+
+            if(nums[mid]>target)
+            {
+                a2=mid;
+                high=mid-1;
+            }
+
+            else
+            {
+                low=mid+1;
+            }
+        }
+
+        return a2 == -1 ? nums.length : a2;
+    }
+
+    public int[] searchRange(int[] nums, int target) 
+    {
+        if(nums == null || nums.length==0)
+        {
+            return new int [] {-1,-1};
+        }
+        int lb=lower(nums,0,nums.length-1,target);
+        int ub=upper(nums,0,nums.length-1,target);
+
+        if(lb==-1 || lb == nums.length || nums[lb]!=target)
+        {
+            return new int [] {-1,-1};
+        }
+
+        else
+        {
+            return new int [] {lb,ub-1};
+        }
     }
 }
