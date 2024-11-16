@@ -122,6 +122,7 @@
 | [0287-find-the-duplicate-number](https://github.com/divyaamp05/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyaamp05/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/divyaamp05/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/divyaamp05/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/divyaamp05/LeetCode/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/divyaamp05/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -143,6 +144,7 @@
 | [0231-power-of-two](https://github.com/divyaamp05/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/divyaamp05/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/divyaamp05/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/divyaamp05/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyaamp05/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/divyaamp05/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/divyaamp05/LeetCode/tree/master/1610-xor-operation-in-an-array) |
