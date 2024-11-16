@@ -122,6 +122,7 @@
 | [0287-find-the-duplicate-number](https://github.com/divyaamp05/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyaamp05/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/divyaamp05/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/divyaamp05/LeetCode/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/divyaamp05/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/divyaamp05/LeetCode/tree/master/0792-binary-search) |
@@ -218,4 +219,8 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/divyaamp05/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/divyaamp05/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
