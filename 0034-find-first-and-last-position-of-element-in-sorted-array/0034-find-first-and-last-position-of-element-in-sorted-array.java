@@ -3,6 +3,10 @@ class Solution
     public int[] searchRange(int[] nums, int target) 
     {
         int a=fun1(nums,target);
+        if(a==-1)
+        {
+            return new int [] {-1,-1};
+        }
         int b=fun2(nums,target);
 
         return new int [] {a,b};
