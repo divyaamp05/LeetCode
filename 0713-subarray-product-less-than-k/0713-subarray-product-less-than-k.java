@@ -11,10 +11,12 @@ class Solution {
                 {
                     count++;
                 }
+
                 else
                 {
                     break;
                 }
+               
             }
         }
 
