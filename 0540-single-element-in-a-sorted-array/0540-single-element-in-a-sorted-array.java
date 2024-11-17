@@ -2,14 +2,13 @@ class Solution {
     public int singleNonDuplicate(int[] nums) 
     {
         int n=nums.length;
-
         int low=1;
         int high=n-2;
 
-        if(nums.length==1)
+        if(n==1)
         {
             return nums[0];
-        }    
+        }
 
         if(nums[0]!=nums[1])
         {
@@ -48,10 +47,8 @@ class Solution {
                     high=mid-1;
                 }
             }
-            
         }
 
         return nums[low];
-        
     }
 }
