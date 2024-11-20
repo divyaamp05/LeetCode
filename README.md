@@ -44,6 +44,7 @@
 | [0792-binary-search](https://github.com/divyaamp05/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/divyaamp05/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/divyaamp05/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/divyaamp05/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/divyaamp05/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/divyaamp05/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/divyaamp05/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -62,6 +63,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyaamp05/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/divyaamp05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/divyaamp05/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/divyaamp05/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
@@ -84,6 +86,7 @@
 | [0414-third-maximum-number](https://github.com/divyaamp05/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyaamp05/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/divyaamp05/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/divyaamp05/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/divyaamp05/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/divyaamp05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/divyaamp05/LeetCode/tree/master/3321-type-of-triangle) |
@@ -109,6 +112,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyaamp05/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/divyaamp05/LeetCode/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/divyaamp05/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/divyaamp05/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaamp05/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/divyaamp05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
@@ -141,6 +145,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/divyaamp05/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/divyaamp05/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/divyaamp05/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/divyaamp05/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/divyaamp05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
