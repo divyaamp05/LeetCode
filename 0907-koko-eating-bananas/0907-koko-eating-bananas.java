@@ -33,7 +33,7 @@ class Solution
         int sum=0;
         for(int i=0;i<piles.length;i++)
         {
-            sum+= Math.ceil((double) piles[i]/(double)mid);
+            sum+= Math.ceil((double) piles[i]/mid);
         }
 
         return sum;
