@@ -50,8 +50,7 @@ class Solution {
 
         else
         {
-            int mid=n/2;
-            return (arr[mid] + arr[mid-1])/2.0;
+            return (arr[n/2]+arr[(n/2)-1])/2.0;
         }
 
 
