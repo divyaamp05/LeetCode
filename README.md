@@ -50,6 +50,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/divyaamp05/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/divyaamp05/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2047-find-a-peak-element-ii](https://github.com/divyaamp05/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/divyaamp05/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaamp05/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/divyaamp05/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -156,6 +157,7 @@
 | [0907-koko-eating-bananas](https://github.com/divyaamp05/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyaamp05/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2047-find-a-peak-element-ii](https://github.com/divyaamp05/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/divyaamp05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -232,6 +234,7 @@
 | [0059-spiral-matrix-ii](https://github.com/divyaamp05/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/divyaamp05/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyaamp05/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/divyaamp05/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
