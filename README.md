@@ -52,6 +52,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/divyaamp05/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/divyaamp05/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/divyaamp05/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/divyaamp05/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/divyaamp05/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaamp05/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -161,6 +162,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/divyaamp05/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyaamp05/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1646-kth-missing-positive-number](https://github.com/divyaamp05/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/divyaamp05/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/divyaamp05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
