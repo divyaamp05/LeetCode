@@ -202,6 +202,7 @@
 | [0058-length-of-last-word](https://github.com/divyaamp05/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/divyaamp05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/divyaamp05/LeetCode/tree/master/0392-is-subsequence) |
+| [1078-remove-outermost-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/divyaamp05/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Prefix Sum
 |  |
@@ -273,4 +274,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
