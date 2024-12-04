@@ -1,23 +1,22 @@
-class Solution {
+class Solution 
+{
     public String reverseWords(String s) 
     {
         s=s.trim();
 
-        String [] words=s.split("\\s+");
+        String [] a=s.split("\\s+");
+        StringBuilder ans= new StringBuilder();
 
-        StringBuilder st =new StringBuilder ();
-
-        for(int i=words.length-1;i>=0;i--)
+        for(int i=a.length-1;i>=0;i--)
         {
-            st.append(words[i]);
+            ans.append(a[i]);
+
             if(i>0)
             {
-                st.append(" ");
-            }  
+                ans.append(" ");
+            }
         }
-
-        return st.toString();
-
         
+        return ans.toString();
     }
 }
