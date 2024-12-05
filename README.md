@@ -67,6 +67,7 @@
 | [0169-majority-element](https://github.com/divyaamp05/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyaamp05/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/divyaamp05/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/divyaamp05/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyaamp05/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/divyaamp05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +91,7 @@
 | [0169-majority-element](https://github.com/divyaamp05/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/divyaamp05/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/divyaamp05/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/divyaamp05/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyaamp05/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/divyaamp05/LeetCode/tree/master/0414-third-maximum-number) |
@@ -202,6 +204,7 @@
 | [0020-valid-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/divyaamp05/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/divyaamp05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/divyaamp05/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/divyaamp05/LeetCode/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/divyaamp05/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
