@@ -4,19 +4,26 @@ class Solution
     {
         s=s.trim();
 
-        String [] a=s.split("\\s+");
-        StringBuilder ans= new StringBuilder();
+        String [] words=s.split("\\s+");
 
-        for(int i=a.length-1;i>=0;i--)
-        {
-            ans.append(a[i]);
+        reverse(words,0,words.length-1);
 
-            if(i>0)
-            {
-                ans.append(" ");
-            }
-        }
+        return String.join(" ", words);
+
         
-        return ans.toString();
     }
+
+    public void reverse(String [] words,int start,int end)
+    {
+        while(start<=end)
+        {
+            String temp=words[start];
+            words[start]=words[end];
+            words[end]=temp;
+            start++;
+            end--;
+        }
+       
+    }
+
 }
