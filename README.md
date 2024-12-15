@@ -117,6 +117,7 @@
 | [0018-4sum](https://github.com/divyaamp05/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyaamp05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divyaamp05/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyaamp05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/divyaamp05/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/divyaamp05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/divyaamp05/LeetCode/tree/master/0125-valid-palindrome) |
@@ -210,6 +211,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divyaamp05/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyaamp05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/divyaamp05/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/divyaamp05/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/divyaamp05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -305,4 +307,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divyaamp05/LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyaamp05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
