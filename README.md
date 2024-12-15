@@ -217,6 +217,7 @@
 | [0344-reverse-string](https://github.com/divyaamp05/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/divyaamp05/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/divyaamp05/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0742-to-lower-case](https://github.com/divyaamp05/LeetCode/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/divyaamp05/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2032-largest-odd-number-in-string](https://github.com/divyaamp05/LeetCode/tree/master/2032-largest-odd-number-in-string) |
