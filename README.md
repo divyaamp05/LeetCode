@@ -128,6 +128,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyaamp05/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/divyaamp05/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/divyaamp05/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/divyaamp05/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/divyaamp05/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyaamp05/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/divyaamp05/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/divyaamp05/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0874-backspace-string-compare](https://github.com/divyaamp05/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/divyaamp05/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaamp05/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -218,6 +220,7 @@
 | [0392-is-subsequence](https://github.com/divyaamp05/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/divyaamp05/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/divyaamp05/LeetCode/tree/master/0742-to-lower-case) |
+| [0874-backspace-string-compare](https://github.com/divyaamp05/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/divyaamp05/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2032-largest-odd-number-in-string](https://github.com/divyaamp05/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -291,6 +294,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/0020-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/divyaamp05/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
