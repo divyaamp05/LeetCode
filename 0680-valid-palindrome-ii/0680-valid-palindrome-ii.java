@@ -3,20 +3,20 @@ class Solution {
     {
         int n=s.length();
      
-        int start=0;
-        int end=n-1;
+        int i=0;
+        int j=n-1;
             
-        while(start<end)
+        while(i<j)
         {
-            if(s.charAt(start)==s.charAt(end))
+            if(s.charAt(i)==s.charAt(j))
             {
-                start++;
-                end--;
+                i++;
+                j--;
             }
 
             else
             {
-                return isPalindrome(s,start+1,end) || isPalindrome(s,start,end-1);
+                return isPalindrome(s,i+1,j) || isPalindrome(s,i,j-1);
             }
 
         }
@@ -25,17 +25,17 @@ class Solution {
 
     }
 
-    public boolean isPalindrome(String s,int start,int end)
+    public boolean isPalindrome(String s,int i,int j)
     {
-        while(start<end)
+        while(i<j)
         {
-            if(s.charAt(start)!=s.charAt(end))
+            if(s.charAt(i)!=s.charAt(j))
             {
                 return false;
             }
 
-            start++;
-            end--;
+            i++;
+            j--;
         }
 
         return true;
