@@ -6,9 +6,9 @@ class Solution {
             return false;
         }
 
-        int [] count =new int [26];
+        int [] count =new int [26];//hasharray
 
-        for(int i=s.length()-1;i>=0;i--)
+        for(int i=0;i<=s.length()-1;i++)
         {
             count[s.charAt(i)-'a']++;
             count[t.charAt(i)-'a']--;
