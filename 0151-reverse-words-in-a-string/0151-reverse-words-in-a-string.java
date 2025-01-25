@@ -12,6 +12,7 @@ class Solution {
             {
                 i++;
             }
+
             
             w="";
             while(i<s.length() && s.charAt(i)!=' ')
@@ -21,6 +22,7 @@ class Solution {
             }
 
             ans=w + " "+ ans;
+            
         }
 
         ans=ans.trim();
