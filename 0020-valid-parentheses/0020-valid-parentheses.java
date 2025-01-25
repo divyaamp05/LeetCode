@@ -5,11 +5,10 @@ class Solution {
 
         for(char i:s.toCharArray())
         {
-            char a=i;
-
-            if(a=='(' || a=='{' || a=='[')
+ 
+            if(i=='(' || i=='{' || i=='[')
             {
-                st.push(a);
+                st.push(i);
             }
 
             else
@@ -19,9 +18,9 @@ class Solution {
                     return false;
                 }
 
-                char b=st.peek();
+                char a=st.peek();
 
-                if((a==')' && b=='(') || (a=='}' && b=='{') || (a==']' && b=='['))
+                if((i==')' && a=='(') || (i=='}' && a=='{') || (i==']' && a=='['))
                 {
                     st.pop();
                 }
