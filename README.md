@@ -239,6 +239,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/divyaamp05/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/divyaamp05/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3379-score-of-a-string](https://github.com/divyaamp05/LeetCode/tree/master/3379-score-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
