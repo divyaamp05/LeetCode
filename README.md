@@ -46,6 +46,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/divyaamp05/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/divyaamp05/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/divyaamp05/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0926-find-and-replace-pattern](https://github.com/divyaamp05/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1019-squares-of-a-sorted-array](https://github.com/divyaamp05/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/divyaamp05/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/divyaamp05/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -75,6 +76,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyaamp05/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/divyaamp05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0926-find-and-replace-pattern](https://github.com/divyaamp05/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyaamp05/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/divyaamp05/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
@@ -235,6 +237,7 @@
 | [0742-to-lower-case](https://github.com/divyaamp05/LeetCode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/divyaamp05/LeetCode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/divyaamp05/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0926-find-and-replace-pattern](https://github.com/divyaamp05/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/divyaamp05/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/divyaamp05/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
