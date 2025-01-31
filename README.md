@@ -258,6 +258,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/divyaamp05/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/divyaamp05/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/divyaamp05/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/divyaamp05/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/divyaamp05/LeetCode/tree/master/0342-power-of-four) |
@@ -339,6 +340,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/divyaamp05/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/divyaamp05/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/divyaamp05/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
