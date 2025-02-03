@@ -126,6 +126,7 @@
 | [0005-longest-palindromic-substring](https://github.com/divyaamp05/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/divyaamp05/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/divyaamp05/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/divyaamp05/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyaamp05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/divyaamp05/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyaamp05/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -352,6 +353,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/divyaamp05/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/divyaamp05/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/divyaamp05/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/divyaamp05/LeetCode/tree/master/0142-linked-list-cycle-ii) |
