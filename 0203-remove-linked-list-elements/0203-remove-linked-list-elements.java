@@ -20,11 +20,10 @@ class Solution {
         ListNode prev=null;
 
         while(temp!=null)
-        {
-            
+        { 
             if(temp.val==val)
             {
-               prev.next=temp.next;
+               prev.next=prev.next.next;
             }
 
             else
@@ -33,7 +32,6 @@ class Solution {
             }
 
             temp=temp.next;
-
         }
 
         return head;
