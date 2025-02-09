@@ -140,6 +140,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/divyaamp05/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/divyaamp05/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyaamp05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/divyaamp05/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/divyaamp05/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/divyaamp05/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -275,6 +276,7 @@
 | [0203-remove-linked-list-elements](https://github.com/divyaamp05/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/divyaamp05/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/divyaamp05/LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/divyaamp05/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/divyaamp05/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/divyaamp05/LeetCode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -335,6 +337,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/divyaamp05/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/divyaamp05/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -362,6 +365,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/divyaamp05/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/divyaamp05/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/divyaamp05/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/divyaamp05/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/divyaamp05/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/divyaamp05/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/divyaamp05/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
