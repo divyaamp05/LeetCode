@@ -167,6 +167,7 @@
 | [0874-backspace-string-compare](https://github.com/divyaamp05/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/divyaamp05/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaamp05/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3447-clear-digits](https://github.com/divyaamp05/LeetCode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -266,6 +267,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/divyaamp05/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/divyaamp05/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3379-score-of-a-string](https://github.com/divyaamp05/LeetCode/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/divyaamp05/LeetCode/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -346,6 +348,7 @@
 | [0874-backspace-string-compare](https://github.com/divyaamp05/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [3447-clear-digits](https://github.com/divyaamp05/LeetCode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
