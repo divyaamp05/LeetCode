@@ -16,6 +16,11 @@ class Solution {
             {
                 i++;
             }
+
+            else if(nums[j]!=0 && nums[i]!=0)
+            {
+                i++;
+            }
         }
     }
 }
