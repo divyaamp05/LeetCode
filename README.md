@@ -87,6 +87,7 @@
 | [0926-find-and-replace-pattern](https://github.com/divyaamp05/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyaamp05/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/divyaamp05/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1904-second-largest-digit-in-a-string](https://github.com/divyaamp05/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -264,6 +265,7 @@
 | [1205-defanging-an-ip-address](https://github.com/divyaamp05/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/divyaamp05/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1904-second-largest-digit-in-a-string](https://github.com/divyaamp05/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/divyaamp05/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/divyaamp05/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3379-score-of-a-string](https://github.com/divyaamp05/LeetCode/tree/master/3379-score-of-a-string) |
