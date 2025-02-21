@@ -1,23 +1,31 @@
 class Solution {
     public int secondHighest(String s) 
     {
-        TreeSet <Integer> set =new TreeSet <> ();
+        int first=-1;
+        int second=-1;
 
         for(char ch:s.toCharArray())
         {
             if(Character.isDigit(ch))
             {
-                set.add(ch-'0');
+                int num=ch-'0';
+
+                if(num>first)
+                {
+                    second=first;
+                    first=num;
+                }
+
+                else if(second<num && num<first)
+                {
+                    second=num;
+                }
             }
         }
 
-        if(set.size()<2)
-        {
-            return -1;
-        }
+        return second;
 
-        set.pollLast();
-        return set.last();
+        
 
         
     }
