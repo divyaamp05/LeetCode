@@ -86,6 +86,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/divyaamp05/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/divyaamp05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0782-jewels-and-stones](https://github.com/divyaamp05/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0926-find-and-replace-pattern](https://github.com/divyaamp05/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyaamp05/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/divyaamp05/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -262,6 +263,7 @@
 | [0647-palindromic-substrings](https://github.com/divyaamp05/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/divyaamp05/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/divyaamp05/LeetCode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/divyaamp05/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/divyaamp05/LeetCode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/divyaamp05/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0926-find-and-replace-pattern](https://github.com/divyaamp05/LeetCode/tree/master/0926-find-and-replace-pattern) |
