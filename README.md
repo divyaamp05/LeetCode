@@ -56,6 +56,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/divyaamp05/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/divyaamp05/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/divyaamp05/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/divyaamp05/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divyaamp05/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/divyaamp05/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/divyaamp05/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -215,6 +216,7 @@
 | [0152-maximum-product-subarray](https://github.com/divyaamp05/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/divyaamp05/LeetCode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/divyaamp05/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/divyaamp05/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Math
 |  |
 | ------- |
