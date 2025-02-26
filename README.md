@@ -92,6 +92,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyaamp05/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/divyaamp05/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/divyaamp05/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/divyaamp05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0169-majority-element](https://github.com/divyaamp05/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/divyaamp05/LeetCode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/divyaamp05/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/divyaamp05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -275,6 +277,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/divyaamp05/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/divyaamp05/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1904-second-largest-digit-in-a-string](https://github.com/divyaamp05/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/divyaamp05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/divyaamp05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/divyaamp05/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/divyaamp05/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
