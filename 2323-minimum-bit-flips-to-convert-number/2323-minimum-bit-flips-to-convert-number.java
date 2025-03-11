@@ -2,9 +2,11 @@ class Solution {
     public int minBitFlips(int start, int goal) {
         int res=start^goal;
         int count=0;
-        for(int i=0;i<31;i++){
-            count+=res&1;
-            res=res>>1;
+        while(res!=0){
+            if(res%2==1){
+                count++;
+            }
+            res=res/2;
         }
         return count;
     }
