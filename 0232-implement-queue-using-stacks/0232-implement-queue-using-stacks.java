@@ -38,10 +38,7 @@ class MyQueue {
     }
     
     public boolean empty() {
-        if(s1.isEmpty() && s2.isEmpty()){
-            return true;
-        }
-        return false;
+        return s1.isEmpty() && s2.isEmpty();
     }
 }
 
