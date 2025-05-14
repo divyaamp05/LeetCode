@@ -30,13 +30,16 @@ class Solution {
             List<Integer> sublist=new LinkedList <> ();
 
             for(int i=0;i<s;i++){
-                if(q.peek().left!=null){
-                   q.add(q.peek().left);
+
+                TreeNode curr=q.poll();
+
+                if(curr.left!=null){
+                   q.add(curr.left);
                 }
-                if(q.peek().right!=null){
-                    q.add(q.peek().right);
+                if(curr.right!=null){
+                    q.add(curr.right);
                 }
-                sublist.add(q.poll().val);
+                sublist.add(curr.val);
             }
 
             ls.add(sublist);
