@@ -100,6 +100,7 @@
 | [1635-number-of-good-pairs](https://github.com/divyaamp05/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/divyaamp05/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/divyaamp05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/divyaamp05/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/divyaamp05/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/divyaamp05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/divyaamp05/LeetCode/tree/master/3321-type-of-triangle) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/divyaamp05/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [0229-majority-element-ii](https://github.com/divyaamp05/LeetCode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/divyaamp05/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/divyaamp05/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/divyaamp05/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -293,6 +296,7 @@
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/divyaamp05/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3379-score-of-a-string](https://github.com/divyaamp05/LeetCode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/divyaamp05/LeetCode/tree/master/3447-clear-digits) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/divyaamp05/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -396,6 +400,7 @@
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/divyaamp05/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/divyaamp05/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/divyaamp05/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Trie
 |  |
 | ------- |
