@@ -132,6 +132,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/divyaamp05/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/divyaamp05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/divyaamp05/LeetCode/tree/master/3321-type-of-triangle) |
+| [3859-maximum-product-of-two-digits](https://github.com/divyaamp05/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/divyaamp05/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
 |  |
@@ -261,6 +262,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/divyaamp05/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/divyaamp05/LeetCode/tree/master/3321-type-of-triangle) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/divyaamp05/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3859-maximum-product-of-two-digits](https://github.com/divyaamp05/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
