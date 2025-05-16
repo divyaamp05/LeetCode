@@ -74,6 +74,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/divyaamp05/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/divyaamp05/LeetCode/tree/master/3429-special-array-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/divyaamp05/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3849-equal-sum-grid-partition-i](https://github.com/divyaamp05/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -299,6 +300,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/divyaamp05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/divyaamp05/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/divyaamp05/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3849-equal-sum-grid-partition-i](https://github.com/divyaamp05/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Recursion
 |  |
 | ------- |
@@ -340,6 +342,7 @@
 | [0074-search-a-2d-matrix](https://github.com/divyaamp05/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyaamp05/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/divyaamp05/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [3849-equal-sum-grid-partition-i](https://github.com/divyaamp05/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -471,4 +474,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/divyaamp05/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [3849-equal-sum-grid-partition-i](https://github.com/divyaamp05/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
