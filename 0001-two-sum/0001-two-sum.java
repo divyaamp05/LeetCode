@@ -5,7 +5,6 @@ class Solution {
         int a=0;
         int b=0;
         
-
         for(int i=0;i<n;i++){
             int x=target-nums[i];
             if(mp.containsKey(x)){
