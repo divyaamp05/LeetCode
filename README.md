@@ -55,6 +55,7 @@
 | [0926-find-and-replace-pattern](https://github.com/divyaamp05/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1019-squares-of-a-sorted-array](https://github.com/divyaamp05/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/divyaamp05/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1293-three-consecutive-odds](https://github.com/divyaamp05/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/divyaamp05/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/divyaamp05/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/divyaamp05/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
