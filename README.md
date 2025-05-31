@@ -72,6 +72,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/divyaamp05/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/divyaamp05/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/divyaamp05/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3194-find-words-containing-character](https://github.com/divyaamp05/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/divyaamp05/LeetCode/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/divyaamp05/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/divyaamp05/LeetCode/tree/master/3429-special-array-i) |
@@ -300,6 +301,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/divyaamp05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/divyaamp05/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/divyaamp05/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [3194-find-words-containing-character](https://github.com/divyaamp05/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/divyaamp05/LeetCode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/divyaamp05/LeetCode/tree/master/3447-clear-digits) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/divyaamp05/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
