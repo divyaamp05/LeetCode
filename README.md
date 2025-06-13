@@ -49,6 +49,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/divyaamp05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyaamp05/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/divyaamp05/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/divyaamp05/LeetCode/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/divyaamp05/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/divyaamp05/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/divyaamp05/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -311,6 +312,7 @@
 | [0238-product-of-array-except-self](https://github.com/divyaamp05/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/divyaamp05/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/divyaamp05/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/divyaamp05/LeetCode/tree/master/0724-find-pivot-index) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/divyaamp05/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3849-equal-sum-grid-partition-i](https://github.com/divyaamp05/LeetCode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Recursion
